@@ -2,3 +2,5 @@ pandas
 numpy
 pymongo
 ipykernel
+seaborn
+flask
